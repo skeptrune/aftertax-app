@@ -53,7 +53,6 @@ export default function Home() {
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/icon-192x192.png"></link>
         <meta name="theme-color" content="#d0a65b" />
-        <script defer data-domain="aftertax.io" src="https://plausible.io/js/script.js"></script>
       </Head>
 
       <ApplicationShell>
